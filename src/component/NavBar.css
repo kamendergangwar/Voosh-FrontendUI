@@ -1,0 +1,21 @@
+
+nav a{
+    text-decoration: none;
+    color: #6532ac;
+    font-weight: 600;
+    padding: 5px;
+  }
+  
+  nav a:hover{
+    color: #e8f0ee;
+    background-color: #1e0438;
+    border-radius: 10px;
+  }
+
+  nav .cont{
+    margin-left: 20px;
+  }
+  
+  nav .active{
+    color: #0e4d7b ;
+  }
